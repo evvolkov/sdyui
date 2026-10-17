@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://c2cdbk2ehc4o3"]
+
+[node name="Node2D" type="Node2D" unique_id=2050010071]
+
+[node name="Control" type="Control" parent="." unique_id=254556584]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="MultiplayerSpawner" type="MultiplayerSpawner" parent="Control" unique_id=1277527088]
